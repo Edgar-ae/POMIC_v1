@@ -1975,3 +1975,150 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.26-21.59.30:403][486]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.12.26-21.59.30:494][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.12.26-21.59.32:235][605]LogEditorViewport: Clicking Background
+[2023.12.26-22.18.33:463][334]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.12.26-22.18.33:536][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-22.19.30:653][736]LogViewport: Scene viewport resized to 1365x631, mode Windowed.
+[2023.12.26-22.19.30:669][737]LogViewport: Scene viewport resized to 1365x623, mode Windowed.
+[2023.12.26-22.19.30:705][738]LogViewport: Scene viewport resized to 1365x602, mode Windowed.
+[2023.12.26-22.19.30:729][739]LogViewport: Scene viewport resized to 1365x584, mode Windowed.
+[2023.12.26-22.19.30:758][740]LogViewport: Scene viewport resized to 1365x560, mode Windowed.
+[2023.12.26-22.19.30:784][741]LogViewport: Scene viewport resized to 1365x541, mode Windowed.
+[2023.12.26-22.19.30:812][742]LogViewport: Scene viewport resized to 1365x527, mode Windowed.
+[2023.12.26-22.19.30:836][743]LogViewport: Scene viewport resized to 1365x519, mode Windowed.
+[2023.12.26-22.19.30:864][744]LogViewport: Scene viewport resized to 1365x514, mode Windowed.
+[2023.12.26-22.19.30:888][745]LogViewport: Scene viewport resized to 1365x513, mode Windowed.
+[2023.12.26-22.19.31:057][763]LogViewport: Scene viewport resized to 1365x510, mode Windowed.
+[2023.12.26-22.19.31:072][764]LogViewport: Scene viewport resized to 1365x509, mode Windowed.
+[2023.12.26-22.19.31:121][765]LogViewport: Scene viewport resized to 1365x508, mode Windowed.
+[2023.12.26-22.20.07:082][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.12.26-22.20.07:082][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.12.26-22.20.07:095][405]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1658528759
+[2023.12.26-22.20.07:097][405]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1658528759
+[2023.12.26-22.20.32:393][392]LogViewport: Scene viewport resized to 1364x508, mode Windowed.
+[2023.12.26-22.20.32:409][393]LogViewport: Scene viewport resized to 1362x508, mode Windowed.
+[2023.12.26-22.20.32:443][394]LogViewport: Scene viewport resized to 1353x508, mode Windowed.
+[2023.12.26-22.20.32:466][395]LogViewport: Scene viewport resized to 1344x508, mode Windowed.
+[2023.12.26-22.20.32:500][396]LogViewport: Scene viewport resized to 1320x508, mode Windowed.
+[2023.12.26-22.20.32:527][397]LogViewport: Scene viewport resized to 1299x508, mode Windowed.
+[2023.12.26-22.20.32:550][398]LogViewport: Scene viewport resized to 1280x508, mode Windowed.
+[2023.12.26-22.20.32:580][399]LogViewport: Scene viewport resized to 1266x508, mode Windowed.
+[2023.12.26-22.20.32:608][400]LogViewport: Scene viewport resized to 1263x508, mode Windowed.
+[2023.12.26-22.20.32:632][401]LogViewport: Scene viewport resized to 1261x508, mode Windowed.
+[2023.12.26-22.20.32:655][402]LogViewport: Scene viewport resized to 1259x508, mode Windowed.
+[2023.12.26-22.20.32:690][404]LogViewport: Scene viewport resized to 1257x508, mode Windowed.
+[2023.12.26-22.20.35:376][623]LogSlate: Took 0.000494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.26-22.20.58:526][607]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.12.26-22.20.58:634][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-22.20.58:634][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-22.20.59:423][607]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.12.26-22.21.01:748][700]LogSlate: Window 'Cube' being destroyed
+[2023.12.26-22.21.01:785][700]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-22.21.01:786][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-22.21.23:379][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-22.21.23:461][450]LogPackageLocalizationCache: Processed 47 localized package path(s) for 2 prioritized culture(s) in 0.007859 seconds
+[2023.12.26-22.21.23:466][450]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/30/1RVJIJ07HH00ZYXR7AC0KJ
+[2023.12.26-22.21.23:466][450]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/1RVJIJ07HH00ZYXR7AC0KJA9AC43E548B5035A5382448319F9D3E8.tmp' to '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/30/1RVJIJ07HH00ZYXR7AC0KJ.uasset'
+[2023.12.26-22.21.23:481][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms
+[2023.12.26-22.21.23:485][450]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_3C7C3F23D69C90C901_1658528759
+[2023.12.26-22.21.23:485][450]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1658528759
+[2023.12.26-22.23.26:763][848]LogContentBrowser: Attempting asset rename: Cube -> Cube_cub
+[2023.12.26-22.23.27:471][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-22.23.27:536][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cube_cub" FILE="../../../Engine/Content/BasicShapes/Cube_cub.uasset" SILENT=true
+[2023.12.26-22.23.27:540][848]LogSavePackage: Moving output files for package: /Engine/BasicShapes/Cube_cub
+[2023.12.26-22.23.27:540][848]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/Cube_cub0F36EC3D4B4F851F93CE5D96671B269C.tmp' to '../../../Engine/Content/BasicShapes/Cube_cub.uasset'
+[2023.12.26-22.23.27:544][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Cube" FILE="../../../Engine/Content/BasicShapes/Cube.uasset" SILENT=true
+[2023.12.26-22.23.27:545][848]LogSavePackage: Moving output files for package: /Engine/BasicShapes/Cube
+[2023.12.26-22.23.27:546][848]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/Cube66E6E8D34A0B0124C841129AB338CE00.tmp' to '../../../Engine/Content/BasicShapes/Cube.uasset'
+[2023.12.26-22.23.27:555][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 186 ms)
+[2023.12.26-22.23.27:556][848]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-22.23.27:556][848]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Engine/BasicShapes/Cube_cub.Cube_cub
+[2023.12.26-22.23.27:556][848]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Engine/BasicShapes/Cube.Cube
+[2023.12.26-22.23.35:158][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube_cub.Cube_cub
+[2023.12.26-22.23.35:158][450]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube_cub.Cube_cub
+[2023.12.26-22.23.35:159][450]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube_cub.Cube_cub as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.12.26-22.23.35:758][496]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube_cub.Cube_cub
+[2023.12.26-22.23.35:758][496]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube_cub.Cube_cub
+[2023.12.26-22.23.35:760][496]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube_cub.Cube_cub as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1867203760
+[2023.12.26-22.23.42:754][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-22.23.42:819][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/30/1RVJIJ07HH00ZYXR7AC0KJ
+[2023.12.26-22.23.42:820][ 46]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/1RVJIJ07HH00ZYXR7AC0KJ329E86CA4570D67A690BCD97EB57A2A3.tmp' to '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/30/1RVJIJ07HH00ZYXR7AC0KJ.uasset'
+[2023.12.26-22.23.42:822][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/94/UX3NM5ULUQJDNTVZ6J43LX
+[2023.12.26-22.23.42:822][ 46]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/UX3NM5ULUQJDNTVZ6J43LX8F5E14D7470BF78582FCDFB8E6032A09.tmp' to '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/94/UX3NM5ULUQJDNTVZ6J43LX.uasset'
+[2023.12.26-22.23.42:832][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 263 ms)
+[2023.12.26-22.23.42:834][ 46]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.26-22.23.42:834][ 46]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1658528759
+[2023.12.26-22.23.42:834][ 46]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1867203760
+[2023.12.26-22.24.08:809][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.12.26-22.24.08:814][166]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.051
+[2023.12.26-22.24.08:815][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorResources/FieldNodes/FS_MasterField] ([2] browsable assets)...
+[2023.12.26-22.24.08:815][166]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorResources/FieldNodes/FS_MasterField]
+[2023.12.26-22.24.09:089][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorResources/FieldNodes/FS_MasterField_Auto1
+[2023.12.26-22.24.09:089][166]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/FS_MasterField_Auto1123C4CDA4C200A520B23A782129B4802.tmp' to '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/Autosaves/Engine/EditorResources/FieldNodes/FS_MasterField_Auto1.uasset'
+[2023.12.26-22.24.09:091][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorResources/FieldNodes/FS_AnchorField_Generic] ([2] browsable assets)...
+[2023.12.26-22.24.09:091][166]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorResources/FieldNodes/FS_AnchorField_Generic]
+[2023.12.26-22.24.09:142][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorResources/FieldNodes/FS_AnchorField_Generic_Auto1
+[2023.12.26-22.24.09:142][166]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/FS_AnchorField_Generic_Auto119B174CC44A6366E965BDDA510D9E253.tmp' to '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/Autosaves/Engine/EditorResources/FieldNodes/FS_AnchorField_Generic_Auto1.uasset'
+[2023.12.26-22.24.09:143][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorResources/FieldNodes/Linear_Force_for_Cloth] ([2] browsable assets)...
+[2023.12.26-22.24.09:144][166]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorResources/FieldNodes/Linear_Force_for_Cloth]
+[2023.12.26-22.24.09:416][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/EditorResources/FieldNodes/Linear_Force_for_Cloth_Auto1
+[2023.12.26-22.24.09:416][166]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/Linear_Force_for_Cloth_Auto190B7613647E476D180EB85AE97A3B722.tmp' to '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/Autosaves/Engine/EditorResources/FieldNodes/Linear_Force_for_Cloth_Auto1.uasset'
+[2023.12.26-22.24.09:417][166]LogFileHelpers: Auto-saving content packages took 0.603
+[2023.12.26-22.25.22:442][574]Cmd: DELETE
+[2023.12.26-22.25.22:450][574]Cmd: ACTOR DELETE
+[2023.12.26-22.25.22:474][574]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.26-22.25.22:480][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.26-22.25.22:482][574]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.12.26-22.25.27:875][  6]Cmd: TRANSACTION UNDO
+[2023.12.26-22.25.27:875][  6]LogEditorTransaction: Undo Delete Elements
+[2023.12.26-22.25.28:355][ 13]Cmd: TRANSACTION UNDO
+[2023.12.26-22.25.28:355][ 13]LogEditorTransaction: Undo Clicking on Elements
+[2023.12.26-22.25.31:006][202]Cmd: DELETE
+[2023.12.26-22.25.31:006][202]Cmd: ACTOR DELETE
+[2023.12.26-22.25.31:007][202]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.26-22.25.31:013][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.12.26-22.25.31:019][202]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.12.26-22.25.33:229][376]Cmd: DELETE
+[2023.12.26-22.25.33:229][376]Cmd: ACTOR DELETE
+[2023.12.26-22.25.33:230][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.26-22.25.33:238][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.12.26-22.25.33:240][376]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.12.26-22.25.37:055][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.26-22.25.42:095][724]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.26-22.25.42:115][724]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Engine/BasicShapes/Cube_cub.Cube_cub
+	Asset Type: StaticMesh
+[2023.12.26-22.25.42:316][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.12.26-22.25.42:323][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.26-22.25.42:328][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.12.26-22.25.42:344][724]LogAutomationController: Ignoring very large delta of 5.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.26-22.25.51:427][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-22.25.51:495][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.12.26-22.25.51:503][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.12.26-22.25.51:507][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.12.26-22.25.51:515][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 352 ms)
+[2023.12.26-22.26.13:801][718]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.3\Engine\Content\BasicShapes\Cube.uasset: Failed to load '/Engine/BasicShapes/Cube_cub': Can't find file.
+[2023.12.26-22.26.13:801][718]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.3\Engine\Content\BasicShapes\Cube.uasset: VerifyImport: Failed to load package for import object 'Package /Engine/BasicShapes/Cube_cub'
+[2023.12.26-22.26.13:801][718]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Cube.Cube'
+[2023.12.26-22.26.16:993][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2023.12.26-22.26.16:993][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2023.12.26-22.26.16:995][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_2028438761
+[2023.12.26-22.26.16:995][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_2028438761
+[2023.12.26-22.26.39:808][974]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cone.Cone
+[2023.12.26-22.26.39:892][974]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-22.26.39:892][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-22.26.40:488][974]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.12.26-22.26.42:140][ 41]LogSlate: Window 'Cone' being destroyed
+[2023.12.26-22.26.42:174][ 41]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-22.26.42:174][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-22.26.58:571][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-22.26.58:629][426]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1658528759 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/30/1RVJIJ07HH00ZYXR7AC0KJ.PackageMetaData in its package
+[2023.12.26-22.26.58:629][426]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_1867203760 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/94/UX3NM5ULUQJDNTVZ6J43LX.PackageMetaData in its package
+[2023.12.26-22.26.58:634][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.26-22.26.58:642][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.26-22.26.58:647][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.12.26-22.26.58:648][426]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Z5/YC6X75Z7F5LEO86KNUOT6U
+[2023.12.26-22.26.58:649][426]LogSavePackage: Moving '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Saved/YC6X75Z7F5LEO86KNUOT6UE3A0EABE4469D04C421A07AA2B280D0F.tmp' to '../../../../../../Users/edgar/OneDrive/Documentos/Unreal Projects/POMIC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Z5/YC6X75Z7F5LEO86KNUOT6U.uasset'
+[2023.12.26-22.26.58:659][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 441 ms)
+[2023.12.26-22.26.58:661][426]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_3C7C3F23D69C90C901_2028438761
+[2023.12.26-22.26.58:661][426]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_3C7C3F23D69C90C901_2028438761
+[2023.12.26-22.26.58:666][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
